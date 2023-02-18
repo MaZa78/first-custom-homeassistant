@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@mattivisti"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/boralyl/github-custom-component-tutorial",
+  "domain": "first-custom",
+  "iot_class": "calculated",
+  "name": "First Custom",
+  "requirements": ["gidgethub[aiohttp]==5.2.1"],
+  "version": "1.0.0"
+}
